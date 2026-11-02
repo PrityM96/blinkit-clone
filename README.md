@@ -28,37 +28,29 @@ Follow these steps to run the application on your local machine:
 
 ### 1. Prerequisites
 Ensure you have [Node.js](https://nodejs.org/) installed:
-\`\`\`bash
-node -v
-npm -v
-\`\`\`
+
+**node -v
+npm -v**
 
 ### 2. Clone the Repository
-\`\`\`bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-cd <YOUR_REPOSITORY_NAME>
-\`\`\`
+```bash
+git clone https://github.com/prity/blinkit-clone.git
+cd blinkit-clone
+```
 
 ### 3. Install Dependencies
-\`\`\`bash
-npm install
-\`\`\`
+
+**npm install**
 
 ### 4. Run the Development Server
-\`\`\`bash
+
 npm run dev
-\`\`\`
-*(or `npm start` depending on setup)*
+*(or "_npm start_" depending on setup)*
 
 Open [http://localhost:5173](http://localhost:5173) (or `http://localhost:3000`) in your browser.
 
 ---
 
-## 📸 Screenshots
-
-*(Optional: Add screenshots or GIFs of your working app here)*
-
----
 
 ## 🤝 Acknowledgements & Disclaimer
 
